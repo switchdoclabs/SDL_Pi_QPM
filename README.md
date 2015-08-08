@@ -1,4 +1,4 @@
-SwitchDoc Labs SDL_Arduino_SX1502 Library
+SwitchDoc Labs SDL_Pi_QPM Library
 
 Raspberry Pi Pure Python Library
 

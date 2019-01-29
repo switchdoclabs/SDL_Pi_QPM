@@ -188,7 +188,7 @@ class SDL_Pi_QPM():
 	def enablePowerChannel(self, channel, enable):
     
     		if (enable == self.QuadPower_DISABLE):
-       			value = self._QuadPower_DIREction | channel
+       			value = self._QuadPower_direction | channel
         
         
     		else:
